@@ -31,4 +31,5 @@ Before running the code, make sure you have Python and the necessary libraries i
 
 ```bash
 pip install dash pandas plotly yfinance
+pip install jupyter lab
 
